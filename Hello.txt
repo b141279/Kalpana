@@ -4,3 +4,11 @@ Front End Development
 2.CSS
 3.Java Script
 4.JQuery
+
+Back End DevelopMent
+1.SQL
+2.Java
+3.Restful API
+
+
+
